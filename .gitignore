@@ -69,3 +69,6 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# Contentful secret api config for content-model import
+contentful-config.json
