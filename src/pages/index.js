@@ -13,12 +13,12 @@ const Index = () => {
       <Seo title="Home" />
       <Layout>
         <BannerModule
-          title="Barcadia"
-          subTitle="A product based template system for GatsbyJS"
+          title="qbahamutp"
+          subTitle="Trying out Barcadia with GatsbyJS"
         />
         <BasicTextModule />
         <PerksModule>
-          <Perk title="The Title" content="The content" />
+          <Perk title="Hmmm, very perky title, yeeees" content="perky title of course needs some perky content" />
         </PerksModule>
         <Features />
       </Layout>
